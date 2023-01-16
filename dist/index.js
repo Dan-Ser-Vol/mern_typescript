@@ -3,5 +3,8 @@ const app = express();
 app.use('/', (req, res) => {
     res.send("Hello world!");
 });
-app.listen(3002, () => console.log("Server worked"));
+app.use('/auth', (req, res) => {
+    res.send("Hello user!");
+});
+app.listen(3003, () => console.log("Server worked"));
 //# sourceMappingURL=index.js.map
