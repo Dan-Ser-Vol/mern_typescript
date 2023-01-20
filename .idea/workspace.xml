@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70492d77-5e4f-4895-a7d0-da352dc7f8a6" name="Changes" comment="">
+    <list default="true" id="70492d77-5e4f-4895-a7d0-da352dc7f8a6" name="Changes" comment="add model User and connect to database">
+      <change afterPath="$PROJECT_DIR$/src/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validations.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/User.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,10 +70,42 @@
       <workItem from="1673816255355" duration="3387000" />
       <workItem from="1673897426392" duration="374000" />
       <workItem from="1673897829343" duration="8000" />
+      <workItem from="1673897869221" duration="5479000" />
+      <workItem from="1673982315623" duration="40000" />
+      <workItem from="1674031801591" duration="8000" />
+      <workItem from="1674070596333" duration="4996000" />
+      <workItem from="1674116563783" duration="754000" />
+      <workItem from="1674213486140" duration="37000" />
+      <workItem from="1674221282893" duration="2000000" />
+      <workItem from="1674224569471" duration="5000" />
+      <workItem from="1674224578116" duration="5806000" />
     </task>
+    <task id="LOCAL-00001" summary="add model User and connect to database">
+      <created>1673903351392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673903351392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add model User and connect to database" />
+    <option name="LAST_COMMIT_MESSAGE" value="add model User and connect to database" />
   </component>
 </project>
